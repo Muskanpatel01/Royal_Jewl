@@ -153,7 +153,7 @@ Royal/
 
 Clone or download the project:
 
-git clone https://github.com/your-username/Royal.git
+git clone [https://github.com/your-username/Royal.git](https://github.com/Muskanpatel01/Royal_Jewl.git)
 
 
 If using PHP, move folder to server:
@@ -195,3 +195,4 @@ Full-stack ready – Frontend + optional backend
 Highly responsive – Works on desktop, tablet, mobile
 
 Developer-friendly – Clean, well-organized project structure
+
